@@ -9,8 +9,8 @@ sidebar:
 
     # Profile information
     name: <b>Tiago R. Kepe</b>
-    tagline: SE @ IFPR
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: SSE @ IFPR
+    avatar: 2profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: tiagokepe@gmail.com
@@ -41,7 +41,7 @@ education:
       university: High Performance and Efficient Systems (HiPES) @ UFPR
       time: 2021 - 2022
 
-    - degree: PhD Candidate in Computer Science
+    - degree: PhD in Computer Science
       university: Federal University of Paraná (UFPR)
       time: 2015 - 2019
 
