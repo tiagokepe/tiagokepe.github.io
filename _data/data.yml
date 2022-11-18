@@ -77,7 +77,7 @@ experiences:
       company: <a href="">HSBC Bank</a>, Brazil
 
     - role: IT Intern (Software Engineer)
-      time: 2011
+      time: 2009 - 2011
       company: <a href="https://www.c3sl.ufpr.br/">Center of Scientific Computing and Free Software</a>, Brazil
 
 
@@ -94,17 +94,14 @@ publications:
       - title: "Evaluation of Hash Join Operations Performance Executing on SDN Switches: A Cost Model Approach."
         authors:  <b>M.S. Franco, S. Dominico, T.R. Kepe, L.C.P. Albini, E.C. de Almeida, M.A.Z. Alves</b>
         conference: Journal of Information and Data Management 13 (2)
-        date: 2022
 
       - title: "Advancing Near-Data Processing with Precise Exceptions and Efficient Data Fetching."
         authors:  <b>S. Santos, T.R. Kepe, F.B. Moreira, P.C. Santos, M.A.Z. Alves</b>
         conference: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
-        date: 2022
 
       - title: "Advancing Database System Operators with Near-Data Processing"
         authors:  <b>S. Santos, T.R. Kepe, F.B. Moreira, M.A.Z. Alves</b>
         conference: International Euromicro Conference on Parallel, Distributed and Network-Based Processing (PDP)
-        date: 2022
 
       - title: "Performance Interference on Key-Value Stores in Multi-tenant Environments: When Block Size and Write Requests Matter"
         authors:  <b>A. Lang, T. R. Kepe, M. Sunye</b>
@@ -114,7 +111,6 @@ publications:
       - title: "Survey on near-data processing: Applications and architectures"
         authors:  <b>A. S. Cordeiro, S. Santos, T.R. Kepe, F.B. Moreira, P.C. Santos, M.A.Z. Alves</b>
         conference: Journal of Integrated Circuits and Systems
-        date: 2021
 
       - title: "Uncovering Performance Interference of Multi-Tenants in Big Data Environments"
         authors:  <b>A. Lang, T. R. Kepe, E. C. Almeida, M. Sunye</b> 
@@ -134,7 +130,6 @@ publications:
       - title: "Near-Data Filters: Taking Another Brick from the Memory Wall"
         authors:  <b>D. G. Tome, T. R. Kepe, M. A. Z. Alves, E. C. Almeida</b>
         conference: ADMS@VLDB
-        date: 2018
 
       - title: "Intrinsics-HMC: An Automatic Trace Generator for Simulations of Processing-In-Memory Instructions"
         authors: A. S. Cordeiro, D. G. Tome, T. R. Kepe, M. A. Z. Alves, E. C. Almeida
