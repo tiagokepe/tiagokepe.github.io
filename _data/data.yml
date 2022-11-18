@@ -1,0 +1,147 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+
+sidebar:
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: <b>Tiago R. Kepe</b>
+    tagline: SE @ IFPR
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: tiagokepe@gmail.com
+    # phone:
+    # website:
+    linkedin: tiago-kepe-3b358023
+    github: tiagokepe
+    #gitlab:
+    #bitbucket:
+    twitter: '@tiagokepe'
+    stack-overflow: 5668390/tiago-kepe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Portuguese
+        level: Native
+
+      - idiom: English
+        level: Advanced
+
+career-profile:
+    title: Career Profile
+    summary: I've been working as a software engineer for the last 13+ years. I'm currently working as SSE @ IFPR.
+    
+education:
+    - degree: Post-Doc in Database Architectures
+      university: High Performance and Efficient Systems (HiPES) @ UFPR
+      time: 2021 - 2022
+
+    - degree: PhD Candidate in Computer Science
+      university: Federal University of Paraná (UFPR)
+      time: 2015 - 2019
+
+    - degree: MSc in Computer Science
+      university: Federal University of Paraná (UFPR)
+      time: 2012 - 2014
+
+    - degree: BSc in Computer Science
+      university: Federal University of Paraná (UFPR)
+      time: 2008 - 2012
+
+experiences:
+
+    - role: DBMS Software Engineer (collaborator)
+      time: 2021 - 2022
+      company: <a href="https://duckdblabs.com/">DuckDB Labs</a>, The Netherlands
+      details: <a href="https://duckdblabs.oeg/">DuckDB</a> is an Open-Source OLAP Embedded DBMS. I'm currently overseeing day-to-day operations at DuckDB Labs. While also continuing C++ development in DuckDB. You can check my public PRs <a href="https://github.com/cwida/duckdb/pulls?q=author%3Apdet+">here</a>.
+ 
+    - role: Senior Software Engineer
+      time: 2015 - Now
+      company: <a href="https://www.ifpr.edu.br/">IFPR</a>, Brazil
+ 
+    - role: Computer Science Researcher
+      time: 2014 - 2015
+      company: <a href="https://www.lncc.br/">National Laboratory of Scientific Computing (LNCC)</a>, Brazil
+
+    - role: Software Engineer
+      time: 2012 - 2014
+      company: <a href="">Siemens Enterprise Communications</a>, Brazil
+
+    - role: IT Intern
+      time: 2011
+      company: <a href="">HSBC Bank</a>, Brazil
+
+    - role: IT Intern (Software Engineer)
+      time: 2011
+      company: <a href="https://www.c3sl.ufpr.br/">Center of Scientific Computing and Free Software</a>, Brazil
+
+
+publications:
+  
+    title: Scientific Publications & Blogposts
+
+    papers:
+      - title: "Storiks: A Framework to Evaluate Performance Interference on Key-Value Stores"
+        authors:  <b>A. Lang, T. R. Kepe, E. C. Almeida, M. Sunye</b>
+        conference: IEEE Access
+        date: 2022
+
+      - title: "Evaluation of Hash Join Operations Performance Executing on SDN Switches: A Cost Model Approach."
+        authors:  <b>M.S. Franco, S. Dominico, T.R. Kepe, L.C.P. Albini, E.C. de Almeida, M.A.Z. Alves</b>
+        conference: Journal of Information and Data Management 13 (2)
+        date: 2022
+
+      - title: "Advancing Near-Data Processing with Precise Exceptions and Efficient Data Fetching."
+        authors:  <b>S. Santos, T.R. Kepe, F.B. Moreira, P.C. Santos, M.A.Z. Alves</b>
+        conference: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+        date: 2022
+
+      - title: "Advancing Database System Operators with Near-Data Processing"
+        authors:  <b>S. Santos, T.R. Kepe, F.B. Moreira, M.A.Z. Alves</b>
+        conference: International Euromicro Conference on Parallel, Distributed and Network-Based Processing (PDP)
+        date: 2022
+
+      - title: "Performance Interference on Key-Value Stores in Multi-tenant Environments: When Block Size and Write Requests Matter"
+        authors:  <b>A. Lang, T. R. Kepe, M. Sunye</b>
+        conference: ACM/SPEC International Conference on Performance Engineering (LTB@ICPE)
+        date: 2021
+
+      - title: "Survey on near-data processing: Applications and architectures"
+        authors:  <b>A. S. Cordeiro, S. Santos, T.R. Kepe, F.B. Moreira, P.C. Santos, M.A.Z. Alves</b>
+        conference: Journal of Integrated Circuits and Systems
+        date: 2021
+
+      - title: "Uncovering Performance Interference of Multi-Tenants in Big Data Environments"
+        authors:  <b>A. Lang, T. R. Kepe, E. C. Almeida, M. Sunye</b> 
+        conference: 
+        date: 2020
+
+      - title: "Database Processing-in-Memory: An Experimental Study"
+        authors:  <b>T. R. Kepe, E. C. Almeida, M. A. Z. Alves</b> 
+        conference: Proceedings of Very Large Data Bases (VLDB Endowment)
+        date: 2019
+
+      - title: "Database Processing-in-Memory: A Vision"
+        authors:  <b>T. R. Kepe</b>
+        conference: PhD Workshop, VLDB
+        date: 2018
+
+      - title: "Near-Data Filters: Taking Another Brick from the Memory Wall"
+        authors:  <b>D. G. Tome, T. R. Kepe, M. A. Z. Alves, E. C. Almeida</b>
+        conference: ADMS@VLDB
+        date: 2018
+
+      - title: "Intrinsics-HMC: An Automatic Trace Generator for Simulations of Processing-In-Memory Instructions"
+        authors: A. S. Cordeiro, D. G. Tome, T. R. Kepe, M. A. Z. Alves, E. C. Almeida
+        conference: WSCAD
+        date: 2017
+
+      - title: "KSample: Dynamic Sampling Over Unbounded Data Streams"
+        authors:  T. R. Kepe, E. C. Almeida, T. Cerqueus
+        conference: National Symposium of Database (SBC - SBBD2015)
+        date: 2015
