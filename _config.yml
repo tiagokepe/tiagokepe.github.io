@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Pedro Holanda
-url: 'http://pholanda.github.io'
+title: Tiago R. Kepe
+url: 'http://tiagokepe.github.io'
 baseurl: '/' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue # blue turquoise green berry orange ceramic
