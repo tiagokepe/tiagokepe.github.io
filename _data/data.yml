@@ -114,7 +114,7 @@ publications:
 
       - title: "Uncovering Performance Interference of Multi-Tenants in Big Data Environments"
         authors:  <b>A. Lang, T. R. Kepe, E. C. Almeida, M. Sunye</b> 
-        conference: 
+        conference: IEEE BigData
         date: 2020
 
       - title: "Database Processing-in-Memory: An Experimental Study"
