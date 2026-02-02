@@ -34,8 +34,10 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: Software Engineer with 13+ years of experience in backend and frontend development. I have worked on large projects for the Brazilian government and the software industry, designing and implementing high-traffic, distributed, scalable, and reliable systems. I am still eager to learn new technologies and work on cutting-edge data engineering and systems development.
-    
+    summary: Software Engineer with experience in backend/frontend, having a deep understanding of CS fundamentals (algorithms/data structures),
+    design patterns, MVC, TDD, and coding best practices. I’ve worked on large projects for public sectors and software industry, designing and
+    implementing high-traffic, distributed, scalable, and reliable systems. I am still eager to learn new technologies and work on cutting-edge
+    data engineering and systems development.    
 education:
     - degree: Post-Doc in Database Architectures
       university: High Performance and Efficient Systems (HiPES) @ UFPR
